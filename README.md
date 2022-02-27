@@ -1,3 +1,10 @@
+# fork 说明
+
+已经恢复原作者的删除操作 > [在线阅读](http://fang2hou.com/effective-java-3rd-chinese/) <
+
+> 以下原文
+------
+
 # effective-java-3rd-chinese
 
 前51条：文章翻译来源地址：[https://www.jianshu.com/c/ce8cf0e13b23](https://www.jianshu.com/c/ce8cf0e13b23)
